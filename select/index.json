@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "実験中",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-01T14:37:33.009480Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "実験中",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_実験中_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "実験中",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_実験中_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "実験中の街",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_実験中の街_椎名_林檎.txt"
+    }
+  ]
+}
